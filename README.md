@@ -8,10 +8,10 @@ It is based on the stages of Design Thinking technique, which was used for the p
 The result of the project is the set of prototypes of enhanced parts of the Silpo online store app's interface in checkout flow and additional ideas, that were generated based on the users' pains and needs research results.
 Here are the links to the resulting prototypes:
 * [Prototype 1 - Improving delivery fee understanding in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=241-15272&p=f&t=ml6uA6jq0EkPn1en-0&scaling=scale-down&content-scaling=fixed&page-id=241%3A15011&starting-point-node-id=241%3A15272).
-* [Prototype 2 - Optimization of full product delete action in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=232-3328&p=f&t=ml6uA6jq0EkPn1en-0&scaling=scale-down&content-scaling=fixed&page-id=229%3A3085&starting-point-node-id=232%3A3328).
-* [Prototype 3 - AI generation of recipes from products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=184-704&t=hMYCycpjSk5LoFds-0&scaling=scale-down&content-scaling=fixed&page-id=184%3A703&starting-point-node-id=184%3A704).
-* [Prototype 4 - Function to add a replacement for a specific product in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=322-17375&t=bg0qfqMin1RpIeHC-0&scaling=scale-down&content-scaling=fixed&page-id=322%3A17256&starting-point-node-id=322%3A17375).
-* [Prototype 5 - Function to analyse products in the shopping cart for a balanced diet](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=466-75&t=NczxBhmLCfDVSyJk-0&scaling=scale-down&content-scaling=fixed&page-id=466%3A74&starting-point-node-id=466%3A75).
+* [Prototype 2 - Optimization of the action of completely removing an item from the cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=232-3328&p=f&t=ml6uA6jq0EkPn1en-0&scaling=scale-down&content-scaling=fixed&page-id=229%3A3085&starting-point-node-id=232%3A3328).
+* [Prototype 3 - AI-based recipe generation from the products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=184-704&t=hMYCycpjSk5LoFds-0&scaling=scale-down&content-scaling=fixed&page-id=184%3A703&starting-point-node-id=184%3A704).
+* [Prototype 4 - Function to add a list of substitutions for products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=322-17375&t=bg0qfqMin1RpIeHC-0&scaling=scale-down&content-scaling=fixed&page-id=322%3A17256&starting-point-node-id=322%3A17375).
+* [Prototype 5 - Function to analyse the nutritional balance of products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=466-75&t=NczxBhmLCfDVSyJk-0&scaling=scale-down&content-scaling=fixed&page-id=466%3A74&starting-point-node-id=466%3A75).
 
 The initial template of this repository was inspired from the repository of thesis project "Applying User-Centered Design to Improve User Experience of Workaround SaaS CV Builder" completed by Vira Saliieva under the supervision of Kateryna Kamianets, which can be found [here](https://github.com/vsaliievaa/Workaround-UX-improvements/tree/main).
 
@@ -31,13 +31,13 @@ This phase focused on gathering essential insights to comprehensively understand
 
 In this folder you can find:
 * Document with the competitors analysis
-* Proof of moderated usability testing and interviews
+* Proofs of moderated usability testing and interviews
 * Document with the interview scripts for experienced and inexperienced users
 * Document with the usability testing scripts for experienced and inexperienced users
 * Document with the results of moderated usability testing and interviews
 * Document with the results of SUS evaluation of system state
 * Document with the answers to the survey (in Ukrainian)
-* Document with the answers to the survey (in Ukrainian)
+* Document with the results of the survey
 
 The results of heuristic audit and competitive analysis can be found in the common Figma file in the “As is state” tab.
 
@@ -74,7 +74,7 @@ In this folder you can find:
 This stage was focused on validating the assumptions made in the prototypes. I conducted one iteration of testing. As a result I compiled a list of enhancements for the next iteration of testing.
 
 In this folder you can find:
-* Proof of moderated usability testing
+* Proofs of moderated usability testing
 * Document with testing results
-* Document with results of SUS evaluation of prototypes
+* Document with results of SUS evaluation of 3 prototypes
 

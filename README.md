@@ -76,6 +76,7 @@ This stage was focused on validating the assumptions made in the prototypes. One
 
 In this folder you can find:
 * Proofs of moderated usability testing
+* Document with the prototype usability testing scripts
 * Document with testing results
 * Document with results of SUS evaluation of 3 prototypes of new features ideas
 

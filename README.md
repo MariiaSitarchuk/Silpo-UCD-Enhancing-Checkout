@@ -27,19 +27,19 @@ Other important links:
 ## Artefacts
 
 ### Empathy
-This phase focused on gathering essential insights to comprehensively understand the existing state of Silpo's online platform and to identify prevalent user challenges. To achieve this, I undertook several key activities: heuristic audit of the Silpo online store's platforms, competitive analysis of comparable online retailers, moderated usability testing and interviews with both experienced and novice users, and a broad survey on online grocery shopping habits. 
+This phase focused on gathering essential insights to understand the existing state of Silpo's online platform and to identify possible user challenges. To achieve this, several key activities were performed: heuristic audit of the Silpo online store's platforms, competitive analysis of other online retailers on market, moderated usability testing and semi-structured interviews with both experienced and novice users, and a broad survey on online grocery shopping habits. 
 
 In this folder you can find:
 * Document with the competitors analysis
 * Proofs of moderated usability testing and interviews
 * Document with the interview scripts for experienced and inexperienced users
 * Document with the usability testing scripts for experienced and inexperienced users
-* Document with the results of moderated usability testing and interviews
+* Document with the results of moderated usability testing
 * Document with the results of SUS evaluation of system state
 * Document with the answers to the survey (in Ukrainian)
 * Document with the results of the survey
 
-The results of heuristic audit and competitive analysis can be found in the common Figma file in the “As is state” tab.
+The results of initial system analysis and heuristic audit can be found in the common Figma Design file in the “As is state” tab.
 
 
 ### Definition
@@ -53,10 +53,11 @@ In this folder you can find:
 
 ### Ideation
 
-This stage focused on generating ideas of enhancement based on personas and findings in initial research. Generated ideas had different types: some of them were small/cosmetic changes and some were bigger improvements. Additionally I ideated a few new features to the system. Then all generated ideas were prioritized on the impact-effort matrix. And paper sketches were created for the chosen ideas.
+This stage focused on generating ideas of enhancement based on personas and findings in previous stages. Generated ideas had different types: some of them were small changes in current interface and some were bigger improvements. Additionally a few new features to the system were ideated. Then all generated ideas were prioritized on the Impact-Effort matrix. And paper sketches were created for some ideas.
 
 In this folder you can find:
-* Sturctures list of generated ideas to found problems
+* List of all generated ideas
+* Sturctured list of generated ideas to found problems
 * Impact-effort matrix of ideas
 * Sketches
 
@@ -71,10 +72,10 @@ In this folder you can find:
 
 ### Testing
 
-This stage was focused on validating the assumptions made in the prototypes. I conducted one iteration of testing. As a result I compiled a list of enhancements for the next iteration of testing.
+This stage was focused on validating the assumptions made in the prototypes. One iteration of testing was conducted. As a result a list of enhancements for the next iteration of testing was created.
 
 In this folder you can find:
 * Proofs of moderated usability testing
 * Document with testing results
-* Document with results of SUS evaluation of 3 prototypes
+* Document with results of SUS evaluation of 3 prototypes of new features ideas
 

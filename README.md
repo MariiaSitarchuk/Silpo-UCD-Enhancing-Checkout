@@ -17,7 +17,7 @@ The initial template of this repository was inspired from the repository of thes
 
 Other important links:
 
-1. [Figma file](___) (will have a link) with the prototypes, components and other related information.
+1. [Figma Design file](https://www.figma.com/design/HzryhbaxbyH4guWLDoaSeq/Workspace?node-id=0-1&t=ZU89RRRtiCFvj0lY-1) with the "as-is" state analysis, prototypes, components and other related information.
 2. [Survey form for Empathy stage](https://docs.google.com/forms/d/e/1FAIpQLSeuHEvYjktUVjZAgJTff4zu-yI4kk-DOQvBuA52U5waf1cOLg/viewform?usp=header)
 3. [SUS form for Empathy stage - evaluation of initial state usability](https://docs.google.com/forms/d/e/1FAIpQLSd4ua6rpIVTLi8ezppjDTqGwURdHtxA-O2uuBOjiCxL_SGPVw/viewform?usp=header)
 4. [SUS form for Testing stage - evaluation of prototypes usability](https://docs.google.com/forms/d/e/1FAIpQLScOtwNFlc1iSITS47b6dIOyXZcSk-sWU8wEo4wFJHLDtqDkpA/viewform?usp=header)

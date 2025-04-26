@@ -53,12 +53,12 @@ In this folder you can find:
 
 ### Ideation
 
-This stage focused on generating ideas of enhancement based on personas and findings in previous stages. Generated ideas had different types: some of them were small changes in current interface and some were bigger improvements. Additionally a few new features to the system were ideated. Then all generated ideas were prioritized on the Impact-Effort matrix. And paper sketches were created for some ideas.
+This stage focused on generating ideas of enhancement based on personas and findings in previous stages. Generated ideas had different types: some of them were small changes in current interface and some were bigger improvements. Additionally a few new features to the system were ideated. Then all generated ideas were prioritized on the Effort-Impact Matrix. And paper sketches were created for some ideas.
 
 In this folder you can find:
 * List of all generated ideas
 * Sturctured list of generated ideas to found problems
-* Impact-effort matrix of ideas
+* Effort-Impact Matrix of ideas
 * Sketches
 
 

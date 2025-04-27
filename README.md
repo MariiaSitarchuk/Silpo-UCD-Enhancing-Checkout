@@ -13,6 +13,8 @@ Here are the links to the resulting prototypes:
 * [Prototype 4 - Function to add a list of substitutions for products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=322-17375&t=bg0qfqMin1RpIeHC-0&scaling=scale-down&content-scaling=fixed&page-id=322%3A17256&starting-point-node-id=322%3A17375).
 * [Prototype 5 - Function to analyse the nutritional balance of products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=466-75&t=NczxBhmLCfDVSyJk-0&scaling=scale-down&content-scaling=fixed&page-id=466%3A74&starting-point-node-id=466%3A75).
 
+Text with [link]() to the private repository with recording interview and testing.
+
 The initial template of this repository was inspired from the repository of thesis project "Applying User-Centered Design to Improve User Experience of Workaround SaaS CV Builder" completed by Vira Saliieva under the supervision of Kateryna Kamianets, which can be found [here](https://github.com/vsaliievaa/Workaround-UX-improvements/tree/main).
 
 Other important links:

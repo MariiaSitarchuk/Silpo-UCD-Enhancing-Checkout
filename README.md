@@ -13,8 +13,6 @@ Here are the links to the resulting prototypes:
 * [Prototype 4 - Function to add a list of substitutions for products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=322-17375&t=bg0qfqMin1RpIeHC-0&scaling=scale-down&content-scaling=fixed&page-id=322%3A17256&starting-point-node-id=322%3A17375).
 * [Prototype 5 - Function to analyse the nutritional balance of products in the shopping cart](https://www.figma.com/proto/HQXcJ7cfqYK9MkTMlDtmQs/Design-and...?node-id=466-75&t=NczxBhmLCfDVSyJk-0&scaling=scale-down&content-scaling=fixed&page-id=466%3A74&starting-point-node-id=466%3A75).
 
-Text with [link]() to the private repository with recording interview and testing.
-
 The initial template of this repository was inspired from the repository of thesis project "Applying User-Centered Design to Improve User Experience of Workaround SaaS CV Builder" completed by Vira Saliieva under the supervision of Kateryna Kamianets, which can be found [here](https://github.com/vsaliievaa/Workaround-UX-improvements/tree/main).
 
 Other important links:
@@ -23,6 +21,8 @@ Other important links:
 2. [Survey form for Empathy stage](https://docs.google.com/forms/d/e/1FAIpQLSeuHEvYjktUVjZAgJTff4zu-yI4kk-DOQvBuA52U5waf1cOLg/viewform?usp=header)
 3. [SUS form for Empathy stage - evaluation of initial state usability](https://docs.google.com/forms/d/e/1FAIpQLSd4ua6rpIVTLi8ezppjDTqGwURdHtxA-O2uuBOjiCxL_SGPVw/viewform?usp=header)
 4. [SUS form for Testing stage - evaluation of prototypes usability](https://docs.google.com/forms/d/e/1FAIpQLScOtwNFlc1iSITS47b6dIOyXZcSk-sWU8wEo4wFJHLDtqDkpA/viewform?usp=header)
+5. [Private Google Drive folder with recordings of Empathy stage interview and testing sessions](https://drive.google.com/drive/folders/1-t5A9Q-uaorm5Lbl8DKgpy18bmJsWsBM?usp=sharing) - requires access request.
+6. [Private Google Drive folder with recordings of Testing stage prototype testing sessions](https://drive.google.com/drive/folders/1mOAJjVg_tkWvXZXwXHC9MS_s2jDwZKY0?usp=sharing) - requires access request.
 
 
 

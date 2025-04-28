@@ -34,8 +34,8 @@ This phase focused on gathering essential insights to understand the existing st
 In this folder you can find:
 * Document with the competitors analysis
 * Proofs of moderated usability testing and interviews
-* Document with the interview scripts for experienced and inexperienced users
-* Document with the usability testing scripts for experienced and inexperienced users
+* Document with the interview and usability testing script for experienced user
+* Document with the interview and usability testing script for inexperienced user
 * Document with the results of moderated usability testing
 * Document with the results of SUS evaluation of system state
 * Document with the answers to the survey (in Ukrainian)
@@ -78,7 +78,7 @@ This stage was focused on validating the assumptions made in the prototypes. One
 
 In this folder you can find:
 * Proofs of moderated usability testing
-* Document with the prototype usability testing scripts
+* Document with the prototype usability testing script
 * Document with testing results
 * Document with results of SUS evaluation of 3 prototypes of new features ideas
 
